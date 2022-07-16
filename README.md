@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning ... DSA/Web Development/Machine Learning.
 
 
-- Instagram--> https://www.linkedin.com/in/ashutosh1921/
+- Linkeden--> https://www.linkedin.com/in/ashutosh1921/
 
 
