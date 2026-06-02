@@ -50,29 +50,47 @@ Building scalable backend systems, distributed architectures and high-performanc
 
 ## 📌 Featured Projects
 
-### 🔹 TaskMaster Backend
-Backend task management system with:
+### 🔹 BolChat – AI Customer Support & Lead Generation Platform
 
-- JWT Authentication
-- RBAC
-- MongoDB
-- WebSockets
-- Real-time collaboration
+**Tech Stack:** FastAPI, PostgreSQL, Redis, OpenAI, RAG
 
-### 🔹 Multi-Agent Research Assistant
+- Developed hybrid RAG chatbot with conversational memory and visitor profiling
+- Built automated lead capture pipeline with intent detection and anti-hallucination validation
+- Implemented persistent user memory across sessions using PostgreSQL and browser-based visitor IDs
 
-- FastAPI
-- LangGraph
-- RAG
-- Vector Search
-- AI Agent Orchestration
+🔗 https://github.com/Ashutosh1921/bol_chat
 
-### 🔹 Customer Management System
+### 🔹 Two-User Chat System – Backend
 
-- CLI Application
-- MongoDB
-- CRUD Operations
-- Dynamic ID Generation
+**Tech Stack:** Node.js, Express, MongoDB, Socket.io, Redis, Cloudinary
+
+- Real-time messaging with Socket.io, typing indicators, and online/offline status
+- JWT-based authentication with read/delivered receipts
+- Support for text, images, documents, and videos via Cloudinary integration
+- Redis caching and cursor-based pagination for optimized large conversations
+
+🔗 https://github.com/Ashutosh1921/chat_backend
+
+### 🔹 Advanced Customer Management CLI
+
+**Tech Stack:** Node.js, MongoDB, Mongoose
+
+- Advanced CRUD capability directly executing raw shell operations
+- Rigid structural validation using Mongoose schemas and full error safety nets
+- Smart Dynamic ID generator adapting instantly to active DB collection dimensions
+
+🔗 https://github.com/Ashutosh1921/Customer_CLI
+
+### 🔹 Notification Queue Service
+
+**Tech Stack:** Node.js, Express, Redis, BullMQ
+
+- Built asynchronous notification pipeline using Redis-backed job queues
+- Dedicated BullMQ workers process email and SMS jobs independently
+- Implemented templated notification delivery with provider abstraction
+- Added automatic retries with exponential backoff and failed-job tracking
+
+🔗 https://github.com/Ashutosh1921/notification_queue
 
 ---
 
