@@ -80,9 +80,7 @@ Backend task management system with:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashutosh1921&show_icons=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh1921&layout=compact" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ashutosh1921)](https://git.io/streak-stats)
 
 </p>
 
